@@ -1,4 +1,6 @@
 # Utilities for 1Password
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fonepassword-utilities.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fonepassword-utilities?ref=badge_shield)
+
 
 This project is a collection of utilities contributed by the 1Password community. 
 
@@ -21,3 +23,7 @@ If you'd like to contribute your utility, you have a few options:
 2. For those who haven't mastered `git`, simply post a message in the [1Password Discussion Forums](https://discussions.agilebits.com/) that includes your script and mention your desire to add it here.
 
 Given the nature of 1Password, we need to manually review all scripts before including them here. 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fonepassword-utilities.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fonepassword-utilities?ref=badge_large)
